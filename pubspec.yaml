@@ -1,0 +1,11 @@
+name: tckimlikno
+version: 0.0.5
+email: <nafidurmus07@gmail.com>
+description: >
+  Girilen tc kimlik numarasının geçerli olup olmadıgını kontrol edebileceğiniz dart paketi.
+homepage: https://github.com/nafidurmus/tckimlikno
+
+dependencies:
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
