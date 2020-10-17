@@ -1,5 +1,6 @@
 import 'package:tckimlikno/tckimlikno.dart';
 
 main() {
-  isTckimlikno(1111111111);
+  isTckimlikno(10000000146);
+  print(isTckimlikno(10000000146)); // true
 }
